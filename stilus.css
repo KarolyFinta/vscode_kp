@@ -1,0 +1,26 @@
+body {background-color: rgb(31, 31, 31);}
+
+body {color: rgb(230, 172, 125)}
+
+body {font-size: 12pt}
+
+h2 {font-size: 18pt}
+
+#ScottishFold {
+    background-color:rgb(151, 255, 212);
+    color: rgb(97, 146, 124);
+}
+
+#Savannahmacska {
+    background-color: aquamarine;
+    color: green;
+}
+
+#Bengalimacska {
+    background-color:darkslategrey;
+    color:greenyellow;
+}
+
+.litag {
+    color:red
+}
