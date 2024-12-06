@@ -1,4 +1,4 @@
-body {background-color: rgb(31, 31, 31);}
+body {background-color: rgb(39, 39, 39);}
 
 body {color: rgb(230, 172, 125)}
 
@@ -24,3 +24,20 @@ h2 {font-size: 18pt}
 .litag {
     color:red
 }
+
+a {
+    text-decoration: none;
+    background-color: orange;
+    color:black;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+    border-color:black;
+}
+/* mouse over link */
+a:hover {
+background-color: rgb(255, 60, 1);
+color:brown
+}
+
+  
